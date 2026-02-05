@@ -65,7 +65,7 @@
   - **这是粉丝作品，不作任何商业用途，只用于个人自用/同好交流**。
   - Art commissioned from: **六三66** (via MiHuaShi). / 约稿来自：米画师 **六三66**。
 - **Shipping & CP Stance / 阵营与避雷声明**: 
-  - I am a firm supporter of **scogan** (Cyclops/Wolverine), **Jott** (Cyclops/Jean Grey), and **Scemma** (Cyclops/Emma Frost). 
+  - I am a firm supporter of **scogan** (Wolverine(top)/Cyclops(bottom)), **Jott** (Cyclops/Jean Grey), and **Scemma** (Cyclops/Emma Frost). 
   - 作者属性是 **狼队 (scogan)**，**队琴 (Jott)**，**队白 (Scemma)**。
   - **Users who support opposing pairings (anti-shippers) are strictly forbidden from using this program!!! If I find out you are using this while counter-shipping me, I will hunt you down!!!** 
   - **任何逆我 CP 的都不允许使用！！！被我发现会被追杀！！！**
