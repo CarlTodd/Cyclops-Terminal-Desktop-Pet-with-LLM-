@@ -29,17 +29,18 @@
 1. **Get API Key / 获取 API Key**: 
    - Obtain an API Key from **OpenAI** or **Google Gemini** and ensure you have sufficient token balance. 
    - 前往 OpenAI 或 Google Gemini 获取你的 API 密钥，并且确定 Token 余额充足。
-2. **Configuration / 配置文件**: 
+2. **open 'dist' floder / 打开dist文件夹**
+3. **Configuration / 配置文件**: 
    - Open `config.py` and fill in your `API_KEY` and `API_BASE`. 
    - 打开 `config.py`，填入你的 `API_KEY` 和 `API_BASE`。
    - Choose a high-performance multimodal model for `MODEL_SMART` (e.g., Gemini 1.5 Pro) and a fast model for `MODEL_CHEAP` (e.g., Gemini 1.5 Flash). 
    - 选择响应模型填入 `MODEL_SMART`（建议选择性能较好、较新的多模态模型）及 `MODEL_CHEAP`（建议选择回应较快的模型）。
    - *(Note: International multimodal models with image recognition support are highly recommended.)*
    - *(所有模型都建议使用国外的 AI 多模态模型，且必须具备读图能力。)*
-3. **Environment / 放置资源**: 
+4. **Environment / 放置资源**: 
    - Ensure `main.exe`, `config.py`, and `cyclops.png` are in the same folder. 
    - 确保 `main.exe`、`config.py`、`cyclops.png` 处于同一个文件夹内。
-4. **Launch / 启动**: 
+5. **Launch / 启动**: 
    - Run `main.exe`. / 运行 `main.exe`。
 
 ---
