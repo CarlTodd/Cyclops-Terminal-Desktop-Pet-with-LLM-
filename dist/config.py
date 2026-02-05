@@ -3,15 +3,15 @@ import os
 
 # ================= API 配置 (中转接口) =================
 # 1. 接口地址保持不变
-API_BASE = "https://hiapi.online/v1" 
+API_BASE = "**" 
 # 2. 填入你的中转商 Key
-API_KEY = "sk-EXdnt0XwurISKaNO9IvltFI7idfl587l7YBgNN3tt5Q9aeDN"
+API_KEY = "**"
 
 # ⚡ 日常挂机模型 (根据你提供的列表)
-MODEL_CHEAP = "gemini-2.5-flash"  # 响应极快且便宜
+MODEL_CHEAP = "**"  # 响应极快且便宜
 
 # 🧠 深度/视觉模型 (建议选带搜索功能的，因为 Cyclops 需要分析)
-MODEL_SMART = "gemini-2.5-pro-search" # 逻辑强，且能搜天气/实时信息
+MODEL_SMART = "**" # 逻辑强，且能搜天气/实时信息
 # 或者如果你想尝试最新的： MODEL_SMART = "gemini-3-flash-preview"
 
 # ================= 基础配置 (保持不变) =================
